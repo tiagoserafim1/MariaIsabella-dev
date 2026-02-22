@@ -36,5 +36,3 @@ Estruturas de Dados
 Lógica de Programação Avançada
 Banco de Dados
 Desenvolvimento Full Stack
-
----
