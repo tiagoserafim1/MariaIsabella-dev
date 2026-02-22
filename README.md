@@ -6,19 +6,11 @@
 </div>
 
 ---
-<br>
 
 <div align="center">
-  <h2>👩‍💻 Sobre mim</h2>
-  <p>
-    🎓 Estudante de Tecnologia <br>
-    🚀 Focada em Desenvolvimento Web e Backend <br>
-    📚 Sempre buscando evoluir e aprender novas tecnologias <br>
-    🎯 Construindo experiência prática em programação
-  </p>
+<h2>⚙️ Tecnologias</h2>
+<img src="https://skillicons.dev/icons?i=php,java,html,css,js,python,vscode" />
 </div>
-
-<br>
 
 ---
 
