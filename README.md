@@ -14,19 +14,10 @@
 
 ---
 
-🛠️ Tecnologias
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=php,java,html,css,js,python,vscode" />
-
-</div>
-
----
-
-📚 Atualmente Estudando
-Estruturas de Dados
-Lógica de Programação Avançada
-Banco de Dados
+📚 <strong>Atualmente Estudando</strong><br><br>
+Estruturas de Dados <br>
+Lógica de Programação Avançada <br>
+Banco de Dados <br>
 Desenvolvimento Full Stack
 
 ---
