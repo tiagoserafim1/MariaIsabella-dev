@@ -6,8 +6,6 @@
 </div>
 
 ---
-<br>
-
 <div align="center">
   <h2>👩‍💻 Sobre mim</h2>
   <p>
@@ -18,15 +16,11 @@
   </p>
 </div>
 
-<br>
-
 ---
 
-🛠️ Tecnologias
 <div align="center">
-
+<h2>⚙️ Tecnologias</h2>
 <img src="https://skillicons.dev/icons?i=php,java,html,css,js,python,vscode" />
-
 </div>
 
 ---
